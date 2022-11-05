@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    height: 46px;
+    background-color: #000;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#nav {
+    height: 46px;
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li:hover a {
+    background-color: #999;
+    color: #000;
+
+}
+
+#nav li a {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 0 32px;
+    line-height: 46px;
+    height: 46px;
+    text-transform: uppercase;
+}
+
+#container {
+    padding: 24px 256px;
+    position: relative;
+    top: 46px;
+}
+
+.item-story {
+    padding: 24px 64px;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 32px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.item-story img {
+    width: 20%;
+    float: left;
+    border-radius: 5px;
+}
+
+.info {
+    width: 80%;
+    float: right;
+    padding: 0px 36px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+
+.list-info {
+    list-style-type: none;
+}
+
+.item-info {
+    display: block;
+    padding: 12px 0px;
+}
+
+.name, .other-name {
+    font-size: 16px;
+    display: inline-block;
+}
+
+.name {
+    width: 150px;
+}
+
+.review {
+    padding: 12px 0px;
+}
+
+.list-btn {
+    padding: 24px 32px;
+    height: 46px;
+}
+
+.list-btn li {
+    display: inline-block;
+}
+
+
+
