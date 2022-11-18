@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13786d0d-252d-476b-a061-1e537a2c78b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/artifacts/Demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/src/servlet/CalculatorDiscountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/web/displayDiscount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Product-Discount-Calculator/src/main/webapp/displayDiscount.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/7.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/artifacts/currency_converter_jsp_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/currency-converter-jsp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/out/artifacts/currency_converter_jsp_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/out/artifacts/currency_converter_jsp_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/out/artifacts/currency_converter_jsp_war_exploded/converter.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/out/artifacts/currency_converter_jsp_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/web/converter.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/currency-converter-jsp/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/src/main/java/com/example/demo/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/src/main/webapp/converter.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/demo/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/7.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HfRVAbLac3Ie71NWFsIgRJJNJf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13786d0d-252d-476b-a061-1e537a2c78b8" name="Changes" comment="" />
+      <created>1668674173953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668674173953</updated>
+      <workItem from="1668674175262" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
