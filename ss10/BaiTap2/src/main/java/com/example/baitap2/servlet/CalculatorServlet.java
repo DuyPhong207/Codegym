@@ -1,10 +1,12 @@
 package com.example.baitap2.servlet;
 
 import com.example.baitap2.model.Calculator;
-import jakarta.servlet.*;
-import jakarta.servlet.http.*;
-import jakarta.servlet.annotation.*;
 
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -17,8 +19,8 @@ public class CalculatorServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        float firstOperand = Integer.parseInt(request.getParameter("first-operand"));
-        float secondOperand = Integer.parseInt(request.getParameter("second-operand"));
+        Float firstOperand = Float.parseFloat(request.getParameter("first-operand"));
+        Float secondOperand = Float.parseFloat(request.getParameter("second-operand"));
         char operator = request.getParameter("operator").charAt(0);
         PrintWriter writer = response.getWriter();
         writer.println("<html>");

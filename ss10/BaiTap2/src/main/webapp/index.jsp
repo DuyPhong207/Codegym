@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Calculator</title>
 </head>
 <body>
-<h1>Simple Calculator</h1>
+<h1>My Calculator</h1>
 <form method="post" action="/CalculatorServlet">
     <fieldset>
         <legend>Calculator</legend>
